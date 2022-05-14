@@ -18,6 +18,7 @@ Add PacMen images to web page and watch them wonder!
 </ul>
 
 <hr>
+<h2>LICENSE</h2>
 MIT License
 
 Copyright (c) 2022 MIT JOHN WILLIAMS
